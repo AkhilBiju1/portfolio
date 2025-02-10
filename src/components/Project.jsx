@@ -41,8 +41,8 @@ export default function Project() {
               <li className="shadow-lg  border-2 dark:border-0 rounded-xl pb-2 hover:scale-105  transition-all">
                   <div>
                       <Image className='h-52 lg:h-44 rounded-xl' src={project4} alt="" />
-                      <h3 className='text-lg text-center my-2 px-1'><b>BookOps</b></h3>
-                      <p className='px-1  text-center text-gray-900 dark:text-gray-200 ' > An e-commerce website built using PHP and MySQL.</p>
+                      <h3 className='text-lg text-center my-2 px-1'><b>Real-Time Chat Application</b></h3>
+                      <p className='px-1  text-center text-gray-900 dark:text-gray-200 ' >Chat Application using React, Express.js , Socket.io, and MongoDB.</p>
                   </div>
               </li>
 
